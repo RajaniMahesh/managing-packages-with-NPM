@@ -1,9 +1,10 @@
 {
+	"author": "freecodecmp_demo",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "freecodecmp_demo",
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
